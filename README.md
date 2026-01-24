@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Svetlana Kovalenko
-- 🌱 I’m currently learning React
 - 📫 Telegram: [@KLSvetalana]([https://t.me/KLSvetalana])
 - 📫 Discord: @SvetlanaKovalenko
 
